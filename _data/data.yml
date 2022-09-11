@@ -106,7 +106,7 @@ experiences:
             - Led cross platform mobile application development team that provided real time resource mapping apps to customers using Drupal, Swiftriver, Twitter API, Kohana, Ushahidi, and Appcelerator.
       - role: Firmaware Developer
         time: 2005 - 2007
-        company: Free Radio Berkeley, oakland
+        company: Free Radio Berkeley, Oakland
         details: |
             - Developed transmitter firmware for network interface via a Lantronix Xport that allowed for getting and setting of transmitter settings and status remotely via an on board web server.
             - Used Oscilloscope and logic analyzer to verify transmitter quality control and to debug firmware issues at line level voltage.
