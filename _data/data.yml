@@ -7,27 +7,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dennison Williams
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: Dennison.Williams@gmail.com
+    phone: 503 481 7640
+    timezone: America/Los_Angeles Timezone
+    #citizenship:
+    #website: blog.webjeda.com #do not add http://
+    #linkedin: alandoe
+    #xing: alandoe
+    github: DennisonWilliams
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -35,98 +35,94 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: Student
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Open Source Software Development
           link:
 
-        - item: Snowboarding
+        - item: Micro Electronics
           link:
 
-        - item: Cooking
+        - item: Community Radio
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Over 20 years of Linux Systems Administration and Systems Development.  Strong skills in monitoring, storage, high availability and database architecture. Proven history of delivering solutions on time and within budget. Over 10 years experience working with medical records integration and protecting HIPAA.  I am currently looking for a full time position in the public or non-profit healthcare sector in San Francisco.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: CCNA
+        university: Pearson VUE
+      - degree: Oracle Database Administration Certified Professional
+        university: Oracle
+      - degree: BS in Computer Science, Minor in Math
+        university: San Francisco State University
+        #time: 2011 - 2012
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: IT Manager
+        time: 2014 - Present
+        company: St. James Infirmary, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Since 2014 I have worked as IT Manager, Network Administrator, and Full Stack Developer.
+            - Migrated medical records from a custom application to an ONC certified platform updating the organizations compliance and improving participant continuity of care.
+            - Lead development of electronic medical records system by adding customizations, supporting volunteers, integrating 3rd party ad-dons, and merging upstream releases allowing the organization to provide Covid vaccines, electronic prescriptions, and integration with local laboratories.
+            - Managed all IT vendors, local and cloud assets to ensure privacy that exceeds the standards set by HIPAA.
+            - Architected, configured, monitored, and proactively responded to issues with all site networks to provide highly available secure access to the internet and organization assets.
+      - role: Software Developer
+        time: 2009 - 2013
+        company: Funny Monkey, Portland, OR
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Provided development operations and software development support to an open source e-learning platform
+            - Wrote enhancements to 3rd party modules to improve platform functionality for the organization and the larger open source community.
+            - Architected and deployed virtual development environment which reduced regression bugs and decreased the time to completion for new issues.
+      - role: Systems Administrator
+        time: 2009 - 2019
+        company: Dark Heart Nursery, Oakland
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Developed, monitored, and supported a secure VoIP network allowing for secure communications for staff and customers via law enforcement resistant network.
+            - Wrote customer lead tracking software integrating Zoho and public data sources to facilitate the expansion of sales from the bay area to the entire California region.
+            - Architected, configured, monitored, and proactively responded to issues with all site networks to provide highly available secure access to the internet and organization assets.
+      - role: Development Operations
+        time: 2009 - 2018
+        company: Radical Designs Cooperative, Oakland
+        details: |
+            - Wrote a real time vhost monitoring solution that detected broken deployments switching the organizations response from reactive to proactive and improving the organizations SLA.
+            - Custom WordPress and Drupal development that provided clients with needed functionality on time and under budget.
+            - Monitoring infrastructure architecture and management support with custom interfaces to ease on call scheduling for team.
+      - role: Project Manager
+        time: 2007 - 2012
+        company: March-Hare Communications Collective, Portland, OR
+        details: |
+          Managed the direction of custom IT solutions as lead developer and manager of a 12 person team
+            - Built customize-able secure voice conferencing system leveraging Linux, OpenVPN, and Asterisk to create turn key solution ad hoc networks for surveillance resistant communication.
+            - Led cross platform mobile application development team that provided real time resource mapping apps to customers using Drupal, Swiftriver, Twitter API, Kohana, Ushahidi, and Appcelerator.
+      - role: Firmaware Developer
+        time: 2005 - 2007
+        company: Free Radio Berkeley, oakland
+        details: |
+            - Developed transmitter firmware for network interface via a Lantronix Xport that allowed for getting and setting of transmitter settings and status remotely via an on board web server.
+            - Used Oscilloscope and logic analyzer to verify transmitter quality control and to debug firmware issues at line level voltage.
+      - role: Systems Administrator
+        time: 2002 - 2005
+        company: America Online, Reston, VA
+        details: |
+            - As a team member managed 1200+ host network comprised of Solaris and Linux systems to provide streaming radio service.
+            - Developed tools to perform network and host security audits, log aggregation analysis, and report generation as needed to verify system integrity.
+            - Contributed as Oracle database administrator supporting the data store for the entirety of Time Warner's music archive.
+      - role: Systems Developer
+        time: 1999 - 2002
+        company: San Francisco State University, San Francisco
+        details: |
+            - Architected and managed centralized authentication for a heterogeneous development network based on Linux and OpenLDAP.
+            - Developed web front end that allowed non-technical staff to manage student access to lab resources.
 projects:
     title: Projects
     intro: >
@@ -134,69 +130,61 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Nagios VHost
+        link: "https://github.com/DennisonWilliams/nagios_vhost"
+        tagline: "A tool for managing and checking on vhosts in nagios"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      As a member of a digital security collective I supported the writing, editing, and publishing of Hack This Zine
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Getting Started with Linux Kernel Modules
+        link: "/assets/HTZ5.txt"
+        authors: Dennison Williams
+        conference: Hack This Zine issue 5, 2007
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Perl
+        level: 98%
+
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
+      - name: PHP
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Git & Subversion
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Nagios
+        level: 95%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: HL7 and HIPAA
+        level: 95%
+
+      - name: MySQL / MariaDB
+        level: 95%
+
+      - name: Cisco, Mikrotik, Linux networking
+        level: 95%
+
+      - name: OpenEMR
+        level: 90%
+
+      - name: C
+        level: 80%
+
+      - name: Javascript & jQuery
+        level: 80%
+
+
+
+#footer: >
+        #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
