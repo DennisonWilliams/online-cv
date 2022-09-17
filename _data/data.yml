@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: Dennison.Williams@gmail.com
-    phone: 503 481 7640
     timezone: America/Los_Angeles Timezone
     #citizenship:
     #website: blog.webjeda.com #do not add http://
@@ -126,13 +125,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are a few of the projects I have worked on.
     assignments:
       - title: Nagios VHost
         link: "https://github.com/DennisonWilliams/nagios_vhost"
-        tagline: "A tool for managing and checking on vhosts in nagios"
+        tagline: "A tool for managing and checking on vhosts in nagios."
+    assignments:
+      - title: Sympa
+        link: "https://0xacab.org/evoltech/sympa"
+        tagline: "Sympa is an open source mailing list manager. It provides advanced features with a rich and secure web interface. The patches I wrote support a few features in large installations."
+    assignments:
+      - title: Beef
+        link: "https://github.com/evoltech/beef"
+        tagline: "BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser."
 
 publications:
     title: Publications
