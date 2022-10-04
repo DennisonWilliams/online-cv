@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Dennison Williams
-    tagline: Software Developer
+    tagline: DevOps Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: Dennison.Williams@gmail.com
-    timezone: America/Los_Angeles Timezone
+    #timezone: America/Los_Angeles Timezone
     #citizenship:
     #website: blog.webjeda.com #do not add http://
     linkedin: dennison-williams-936088250
@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Over 20 years of Linux Systems Administration and Systems Development.  Strong skills in monitoring, storage, high availability and database architecture. Proven history of delivering solutions on time and within budget. Over 10 years experience working with medical records integration and protecting HIPAA.  I am currently looking for a full time position in the public or non-profit healthcare sector in San Francisco.
+      Senior Linux Systems Administration and Systems Developer.  Strong skills in monitoring, storage, high availability and database architecture. Proven history of delivering solutions on time and within budget. I am currently looking for a full time position as a DevOps Engineer in the public or non-profit healthcare sector in San Francisco.
 education:
     title: Education
     info:
@@ -70,8 +70,8 @@ experiences:
         time: 2014 - Present
         company: St. James Infirmary, San Francisco
         details: |
-          Since 2014 I have worked as IT Manager, Network Administrator, and Full Stack Developer.
-            - Migrated medical records from a custom application to an ONC certified platform updating the organizations compliance and improving participant continuity of care.
+          Came on as the first formalized IT Manager position for this non-profit organization providing medical services for sex workers and their families since 1999.
+            - Migrated medical records from a custom application to which improved the organizations compliance and participant continuity of care.
             - Lead development of electronic medical records system by adding customizations, supporting volunteers, integrating 3rd party ad-dons, and merging upstream releases allowing the organization to provide Covid vaccines, electronic prescriptions, and integration with local laboratories.
             - Managed all IT vendors, local and cloud assets to ensure privacy that exceeds the standards set by HIPAA.
             - Architected, configured, monitored, and proactively responded to issues with all site networks to provide highly available secure access to the internet and organization assets.
@@ -86,6 +86,7 @@ experiences:
         time: 2009 - 2019
         company: Dark Heart Nursery, Oakland
         details: |
+          Provided custom secure voice infrastructure, network and systems operation support, and custom software development services to support the growth and distribution of premium cannabis clones.
             - Developed, monitored, and supported a secure VoIP network allowing for secure communications for staff and customers via law enforcement resistant network.
             - Wrote customer lead tracking software integrating Zoho and public data sources to facilitate the expansion of sales from the bay area to the entire California region.
             - Architected, configured, monitored, and proactively responded to issues with all site networks to provide highly available secure access to the internet and organization assets.
@@ -93,6 +94,7 @@ experiences:
         time: 2009 - 2018
         company: Radical Designs Cooperative, Oakland
         details: |
+          Supported systems operations and custom sftware development for a radical web development co-operative.
             - Wrote a [real time vhost monitoring solution](https://github.com/DennisonWilliams/nagios_vhost) that detected broken deployments switching the organizations response from reactive to proactive and improving the organizations SLA.
             - Custom WordPress and Drupal development that provided clients with needed functionality on time and under budget.
             - Monitoring infrastructure architecture and management support with custom interfaces to ease on call scheduling for team.
@@ -100,19 +102,21 @@ experiences:
         time: 2007 - 2012
         company: March-Hare Communications Collective, Portland, OR
         details: |
-          Managed the direction of custom IT solutions as lead developer and manager of a 12 person team
+          Managed the direction of custom IT solutions as lead developer of a 12 person team
             - Built customize-able secure voice conferencing system leveraging Linux, OpenVPN, and Asterisk to create turn key solution ad hoc networks for surveillance resistant communication.
             - Led cross platform mobile application development team that provided real time resource mapping apps to customers using Drupal, Swiftriver, Twitter API, Kohana, Ushahidi, and Appcelerator.
       - role: Firmaware Developer
         time: 2005 - 2007
         company: Free Radio Berkeley, Oakland
         details: |
+          Resolved RF bugs and wrote custom firmware to support remotely configureable transmitters for this low power FM fabrication shop.
             - Developed transmitter firmware for network interface via a Lantronix Xport that allowed for getting and setting of transmitter settings and status remotely via an on board web server.
             - Used Oscilloscope and logic analyzer to verify transmitter quality control and to debug firmware issues at line level voltage.
       - role: Systems Administrator
         time: 2002 - 2005
         company: America Online, Reston, VA
         details: |
+          Systems developer and member of large scal systems administration team of operators for the Radio@AOL streaming service.
             - As a team member managed 1200+ host network comprised of Solaris and Linux systems to provide streaming radio service.
             - Developed tools to perform network and host security audits, log aggregation analysis, and report generation as needed to verify system integrity.
             - Contributed as Oracle database administrator supporting the data store for the entirety of Time Warner's music archive.
@@ -120,24 +124,25 @@ experiences:
         time: 1999 - 2002
         company: San Francisco State University, San Francisco
         details: |
+          Systems developer for a multi platform software development lab that maximized the autonomy for CS students.
             - Architected and managed centralized authentication for a heterogeneous development network based on Linux and OpenLDAP.
             - Developed web front end that allowed non-technical staff to manage student access to lab resources.
 projects:
     title: Projects
-    intro: >
-      Here are a few of the projects I have worked on.
+    #intro: >
+    #Here are a few of the projects I have worked on.
     assignments:
       - title: Nagios VHost
         link: "https://github.com/DennisonWilliams/nagios_vhost"
-        tagline: "A tool for managing and checking on vhosts in nagios."
-    assignments:
+        tagline: "A tool for managing and checking on vhosts in nagios. Written to observe the vhosts across a server farm for the RadicalDesigns web development and hosting cooperative, I still use this tool to verify page content and expected redirects from vhosts across a network of hosts."
+        #assignments:
       - title: Sympa
         link: "https://0xacab.org/evoltech/sympa"
         tagline: "Sympa is an open source mailing list manager. It provides advanced features with a rich and secure web interface. The patches I wrote support a few features in large installations."
-    assignments:
+        #assignments:
       - title: Beef
         link: "https://github.com/evoltech/beef"
-        tagline: "BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser."
+        tagline: "BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. My contributions involved automating payload delivery to clients and metasploit integration."
 
 publications:
     title: Publications
@@ -153,40 +158,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Perl
+      - name: Linux, Linode, AWS, Heroku, Kubernetes, Docker
         level: 98%
 
       - name: Python & Django
         level: 98%
 
-      - name: PHP
-        level: 98%
-
-      - name: Git & Subversion
+      - name: Nagios & Syslog
         level: 95%
 
-      - name: Nagios
+      - name: Git & Subversion
         level: 95%
 
       - name: HL7 and HIPAA
         level: 95%
 
-      - name: MySQL / MariaDB
+      - name: MySQL, MariaDB, Apache, PostgreSQL
         level: 95%
 
       - name: Cisco, Mikrotik, Linux networking
         level: 95%
 
-      - name: OpenEMR
-        level: 90%
-
-      - name: C / C++ / C#
-        level: 80%
-
       - name: Javascript & jQuery
         level: 80%
-
-      - name: HTML5 & CSS
-        level: 80%
-
-
