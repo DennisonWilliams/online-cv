@@ -41,7 +41,7 @@ sidebar:
       title: Interests
       info:
         - item: Open Source Software Development
-          link:
+          link: https://github.com/DennisonWilliams
 
         - item: Micro Electronics
           link:
@@ -71,10 +71,11 @@ experiences:
         company: St. James Infirmary, San Francisco
         details: |
           Came on as the first formalized IT Manager position for this non-profit organization providing medical services for sex workers and their families since 1999.
-            - Migrated medical records from a custom application to which improved the organizations compliance and participant continuity of care.
+            - Migrated electronic medical records system from a custom application (Python/Django/MySQL) using PHP and libraries from [OpenEMR](https://www.open-emr.org/) to improve clinical staff accessibility and participant [continuity of care](https://www.astm.org/e2369-05.html).
+            - Exceeded [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) compliance standards throughout the organization to provide custum privacy requirements by managing all IT vendors, cloud assets, and systems integrations.
             - Lead development of electronic medical records system by adding customizations, supporting volunteers, integrating 3rd party ad-dons, and merging upstream releases allowing the organization to provide Covid vaccines, electronic prescriptions, and integration with local laboratories.
-            - Managed all IT vendors, local and cloud assets to ensure privacy that exceeds the standards set by HIPAA.
             - Architected, configured, monitored, and proactively responded to issues with all site networks to provide highly available secure access to the internet and organization assets.
+
       - role: Software Developer
         time: 2009 - 2013
         company: Funny Monkey, Portland, OR
