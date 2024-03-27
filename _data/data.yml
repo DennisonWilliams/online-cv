@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dennison Williams
-    tagline: Software Engineer
+    tagline: Health Informaticist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,29 +52,38 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Senior Linux Systems Administration and Systems Developer with healthcare industry knowledge.  Strong skills in monitoring, storage, high availability and database architecture. Proven history of delivering solutions on time and within budget. I am currently looking for a full time position as a DevOps Engineer in the public or non-profit healthcare sector in San Francisco.
+      Highly analytical professional with transferable experience in health informatics and data engineering, complemented by a strong background in software engineering, IT operations, and project management. I possess in- depth knowledge of scalable systems, security integration, data ETL, electronic medical records systems, and database architecture. Passionate about optimizing the quality and accessibility of healthcare services, I am dedicated to transforming healthcare through advanced biomedical informatics and data analytics.
+
+      Skill Summary
+        - Leveraging complex data to drive innovations in healthcare.
+        - Applying advanced analytics and data management strategies to solve challenging problems in healthcare.
+        - Synthesizing biomedical information, clinical data, and technological insights to improve patient outcomes and streamline healthcare processes.
+        - Fostering interdisciplinary collaborations to advance medical research and optimize clinical operations.
+
+      Let's connect to discuss how we can collaborate to drive innovation and transformation in healthcare through data analytics and informatics!
+
 education:
     title: Education
     info:
       - degree: CCNA
         university: Pearson VUE
-        time: 2022
       - degree: Oracle Database Administration Certified Professional
         university: Oracle
-      - degree: BS in Computer Science, Minor in Math
+      - degree: Bachelor of Science in Computer Science, Minor in Math
         university: San Francisco State University
 experiences:
     title: Experiences
     info:
-      - role: IT Manager
-        time: 2014 - Present
+      - role: Information Technology Manager
+        time: 2014 - 2023
         company: St. James Infirmary, San Francisco
         details: |
-          Came on as the first formalized IT Manager position for this non-profit organization providing medical services for sex workers and their families since 1999.
-            - Migrated electronic medical records system from a custom application (Python/Django/MySQL) using PHP and libraries from [OpenEMR](https://www.open-emr.org/) to improve clinical staff accessibility and participant [continuity of care](https://www.astm.org/e2369-05.html).
-            - Exceeded [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) compliance standards throughout the organization to provide custum privacy requirements by managing all IT vendors, cloud assets, and systems integrations.
-            - Enabled the organizations ability to provide a Covid vaccine program, electronic perscriptions, and integration with local laboratories with development leadership by writing code, supporting volunteer developers, and integrating 3rd party addons. 
-            - Architected, configured, monitored, and proactively responded to issues with all site networks to provide highly available secure access to the internet and organization assets.
+          I led the successful migration of medical records between systems, focusing on ensuring data integrity and a seamless transition for healthcare providers. I developed and maintained robust, secure applications using Python, PHP, Perl, and JavaScript to support critical health initiatives, such as the COVID-19 vaccine program. Additionally, I oversaw large-scale systems administration and database management to optimize performance and reliability. I designed and implemented cutting-edge cloud solutions by leveraging Docker for scalable, custom applications. Furthermore, I applied secure programming practices to protect sensitive data and maintain compliance with industry standards.
+
+          My Key Accomplishments
+            - Saved tens of thousands of dollars by developing custom software solutions and integrating open-source technologies.
+            - Enhanced public health and safety through creation of mobile-first applications and community engagement tools.
+            - Contributed to healthcare IT infrastructure with cost-effective tools for occupational safety and health informatics.
       - role: Software Developer
         time: 2009 - 2013
         company: Funny Monkey, Portland, OR
@@ -132,6 +141,14 @@ projects:
     #intro: >
     #Here are a few of the projects I have worked on.
     assignments:
+      - title: OpenEMR
+        link: "https://github.com/DennisonWilliams/openemr"
+        tagline: "OpenEMR is a Free and Open Source electronic health records and medical practice management application. I supported customizations to match clinical workflow, integrations with county laboratory instrumentations management systems, electronic perscriptions, and public health repositories."
+        #assignments:
+      - title: Bad Date List
+        link: "https://github.com/DennisonWilliams/sji-bdl-client"
+        tagline: "A community led tool for occupational safety amongst sex workers in San Francisco. I supported Data Engineering, Operations, Monitoring, and software releases while taking ledership from community stakeholders"
+        #assignments:
       - title: Nagios VHost
         link: "https://github.com/DennisonWilliams/nagios_vhost"
         tagline: "A tool for managing and checking on vhosts in nagios. Written to observe the vhosts across a server farm for the RadicalDesigns web development and hosting cooperative, I still use this tool to verify page content and expected redirects from vhosts across a network of hosts."
@@ -158,26 +175,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux, Linode, AWS, Heroku, Kubernetes, Docker
+      - name: Linux, Linode, AWS, Heroku, Kubernetes, Docker, DevOps, Operations, System Design, Infrastructure, Integration
         level: 98%
 
-      - name: Python & Django
+      - name: Python, PHP, Perl, C, Javascript
         level: 98%
 
       - name: Nagios & Syslog
         level: 95%
 
-      - name: Git & Subversion
+      - name: Git, Subversion, Software Development, Firmware Development
         level: 95%
 
-      - name: HL7 and HIPAA
+      - name: HL7, Electronic Medical Records (EMR), Fast Healthcare Interoperability Resources (FHIR), Health Informatics, Electronic Health Records (EHR), HIPAA, Clinical Decision Support, Biomedical Informatics
         level: 95%
 
-      - name: MySQL, MariaDB, Apache, PostgreSQL
+      - name: MySQL, MariaDB, Apache, PostgreSQL, Data Engineering, SQL, XML, Database Administration, Data Analytics, Extract Transform Load (ETL), Database Development, Storage Area Network (SAN)
         level: 95%
 
-      - name: Cisco, Mikrotik, Linux networking
+      - name: Development Management, Data Security, Policy Development, Project Planning, Risk Analysis, Communications, Collaboration
         level: 95%
 
-      - name: Javascript & jQuery
-        level: 80%
+      - name: Cisco, Mikrotik, Linux networking, VoIP, Network Administration
+        level: 95%
